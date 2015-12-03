@@ -113,7 +113,7 @@ namespace WebApplication.Models
         public string Email { get; set; }
 
         [Required]
-        [Display(Name = "Username")]
+        [Display(Name = "Usernamee")]
         public string Username { get; set; }
 
         [Required]
